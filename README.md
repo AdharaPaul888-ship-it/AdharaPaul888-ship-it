@@ -1,7 +1,7 @@
 # Hi, I'm Adhara Paul 👋
 
 ## About Me
-- 🎓 CSE Student
+- 🎓 Software Engineering Student
 - 🌱 Learning Python & Machine Learning
 - 🤖 Aspiring AI Engineer
 
