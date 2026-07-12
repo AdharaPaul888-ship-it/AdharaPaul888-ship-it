@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adhara Paul 👋
 
-<!--
-**AdharaPaul888-ship-it/AdharaPaul888-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 CSE Student
+- 🌱 Learning Python & Machine Learning
+- 🤖 Aspiring AI Engineer
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C
+- Machine Learning (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding Profiles
+- 🐝 beecrowd: https://judge.beecrowd.com/en/profile/a07905
+
+
+## Connect with Me
+- GitHub: https://github.com/AdharaPaul888-ship-it
